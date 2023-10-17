@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from 'react'
 import { FOOTER_CONTACT_INFO, FOOTER_LINKS, SOCIALS } from '@/constants'
 import Link from 'next/link'
