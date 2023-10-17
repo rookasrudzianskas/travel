@@ -4,7 +4,6 @@ import { FOOTER_CONTACT_INFO, FOOTER_LINKS, SOCIALS } from '@/constants'
 import Link from 'next/link'
 import Image from "next/image";
 
-
 const Footer = () => {
   return (
     <footer className="flexCenter mb-24">
